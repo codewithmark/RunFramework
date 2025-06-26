@@ -15,7 +15,7 @@ Run Framework is a lightweight JavaScript framework for building blazing-fast, s
 
 ---
 
-## 🔧 The 4 Core Building Blocks
+## 🔧 The 3 Core Building Blocks
 
 1. **Routes**
    - Define your app’s navigation flow
