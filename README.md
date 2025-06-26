@@ -11,7 +11,7 @@ Run Framework is a lightweight JavaScript framework for building blazing-fast, s
 - 🔄 **No reloads:** All updates happen dynamically on the frontend.
 - ⚛️ **React-inspired:** Component-based architecture.
 - ⚡ **jQuery-powered:** Simple and direct DOM control.
-- 🧩 **Only four core parts:** Clean, fast, and beginner-friendly.
+- 🧩 **Only 3 core parts:** Clean, fast, and beginner-friendly.
 
 ---
 
@@ -26,9 +26,7 @@ Run Framework is a lightweight JavaScript framework for building blazing-fast, s
 3. **Components**
    - Reusable UI pieces that respond to state and interaction
 
-4. **Elements**
-   - Handle dynamic content, state, and render logic
-
+ 
 ---
 
 ## ✨ Example
