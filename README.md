@@ -1,4 +1,4 @@
- # 🏃‍♂️ Run Framework
+ # Run Framework 🏃‍♂️‍➡️
 
 **Inspired by React. Powered by jQuery. Designed for Speed.**
 
