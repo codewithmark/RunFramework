@@ -1,6 +1,6 @@
  # Run Framework 🏃‍♂️‍➡️
 
-**Inspired by React. Powered by jQuery. Designed for Speed.**
+**Inspired by React and Designed for Speed.**
 
 Run Framework is a lightweight JavaScript framework for building blazing-fast, single-page web applications in just **four simple steps** — with no page reloads and no bloated setup.
 
